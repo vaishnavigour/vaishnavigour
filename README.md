@@ -1,6 +1,7 @@
-- 📚 I’m B.Tech. student from SGSITS , Indore.
+- 👋 Hi, I am Vaishnavi
+- 📚 pursuing B.Tech from SGSITS , Indore.
 - 👀 I’m interested in Technologies.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently improving my DSA skills.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me: gourvaishnavi08@gmail.com
 
